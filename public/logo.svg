@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Proofline logo">
+  <rect width="512" height="512" rx="128" fill="#0A0A0F"/>
+  <path d="M256 108 L140 150 v92 c0 92 50 156 116 190 66-34 116-98 116-190 v-92 L256 108Z" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round"/>
+  <path d="m180 252 52 52 96-104" fill="none" stroke="#64D2FF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
